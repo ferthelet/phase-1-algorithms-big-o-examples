@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Identify common Big O runtimes: constant, linear, quadratic and logarithmic
-- Research the Big O runtime of built-in methods
+- Identify common Big O runtimes: constant, linear, quadratic and logarithmic.
+- Research the Big O runtime of built-in methods.
 
 ## Introduction
 
